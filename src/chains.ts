@@ -1,5 +1,6 @@
 export enum ChainId {
   MAINNET = 10000,
+  AMBER = 10001,
 }
 
 export const SUPPORTED_CHAINS = [
